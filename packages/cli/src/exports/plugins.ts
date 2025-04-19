@@ -25,3 +25,5 @@ export {
 export { react, type ReactConfig } from '../plugins/react.js'
 
 export { sourcify, type SourcifyConfig } from '../plugins/sourcify.js'
+
+export { vue, type VueConfig } from '../plugins/vue.js'
