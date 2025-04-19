@@ -4,7 +4,7 @@
 
 // biome-ignore lint/performance/noBarrelFile: entrypoint module
 // biome-ignore lint/performance/noReExportAll: entrypoint module
-export * from '@0xoz/core/codegen'
+export * from '@wagmi/core/codegen'
 
 ////////////////////////////////////////////////////////////////////////////////
 // Composables
